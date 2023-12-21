@@ -1,0 +1,18 @@
+{"type": "FeatureCollection", "features": [
+    {"type": "Feature","id":"Johor", "properties": {"name": "JOHOR"}, "geometry": {"type": "Point", "coordinates": [103.7414, 1.4927]}}, 
+    {"type": "Feature","id":"Kedah", "properties": {"name": "KEDAH"}, "geometry": {"type": "Point", "coordinates": [100.3685, 6.1184]}}, 
+    {"type": "Feature","id":"Kelantan", "properties": {"name": "KELANTAN"}, "geometry": {"type": "Point", "coordinates": [102.2386, 6.1254]}}, 
+    {"type": "Feature","id":"Melaka", "properties": {"name": "MELAKA"}, "geometry": {"type": "Point", "coordinates": [102.2501, 2.1896]}}, 
+    {"type": "Feature","id":"Negeri Sembilan", "properties": {"name": "NEGERI SEMBILAN"}, "geometry": {"type": "Point", "coordinates": [101.9424, 2.7258]}}, 
+    {"type": "Feature","id":"Pahang", "properties": {"name": "PAHANG"}, "geometry": {"type": "Point", "coordinates": [103.3256, 3.8126]}}, 
+    {"type": "Feature","id":"Perak", "properties": {"name": "PERAK"}, "geometry": {"type": "Point", "coordinates": [101.0901, 4.5921]}}, 
+    {"type": "Feature","id":"Perlis", "properties": {"name": "PERLIS"}, "geometry": {"type": "Point", "coordinates": [100.2048, 6.4449]}}, 
+    {"type": "Feature","id":"Pulau Pinang", "properties": {"name": "PULAU PINANG"}, "geometry": {"type": "Point", "coordinates": [100.3288, 5.4141]}}, 
+    {"type": "Feature","id":"Sabah", "properties": {"name": "SABAH"}, "geometry": {"type": "Point", "coordinates": [116.0753, 5.9788]}}, 
+    {"type": "Feature","id":"Sarawak", "properties": {"name": "SARAWAK"}, "geometry": {"type": "Point", "coordinates": [110.3592, 1.5533]}}, 
+    {"type": "Feature","id":"Selangor", "properties": {"name": "SELANGOR"}, "geometry": {"type": "Point", "coordinates": [101.5183, 3.0738]}}, 
+    {"type": "Feature","id":"Terengganu", "properties": {"name": "TERENGGANU"}, "geometry": {"type": "Point", "coordinates": [103.1324, 5.3117]}}, 
+    {"type": "Feature","id":"WPKL", "properties": {"name": "WP KUALA LUMPUR"}, "geometry": {"type": "Point", "coordinates": [101.6869, 3.1390]}}, 
+    {"type": "Feature","id":"WPLabuan", "properties": {"name": "WP LABUAN"}, "geometry": {"type": "Point", "coordinates": [115.2308, 5.2831]}}, 
+    {"type": "Feature","id":"MYS", "properties": {"name": "MALAYSIA"}, "geometry": {"type": "Point", "coordinates": [109, 3.7]}}]}
+    
