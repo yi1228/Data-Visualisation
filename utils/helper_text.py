@@ -30,66 +30,6 @@ slider_text_map = tags.p(
     """,
 )
 
-slider_text_plot = tags.p(
-    """
-    Please use the slider below to change the years as well as the
-    dropdown to select the countries to compare. By default, the mean
-    data for the World is plotted.
-    """,
-    style="""
-    text-align: justify;
-    word-break:break-word;
-    hyphens: auto;
-    """,
-)
-
-dataset_information = TagList(
-    tags.strong(tags.h3("Dataset Information")),
-    tags.p(
-        """
-        For the app, we have chosen data from the World Bank and
-        Organisation for Economic Co-operation and Development (OECD).
-        Also, for the data regarding the Death Rate, we relied on
-        Our World in Data. References
-        to all three can be found below.
-        """,
-        style="""
-        text-align: justify;
-        word-break:break-word;
-        hyphens: auto;
-        """,
-    ),
-    tags.ul(
-        tags.li(
-            tags.a(
-                "World Bank",
-                href=(
-                    "https://data.worldbank.org/indicator/"
-                    + "EN.ATM.PM25.MC.M3"
-                ),
-            )
-        ),
-        tags.li(
-            tags.a(
-                "OECD",
-                href=(
-                    "https://stats.oecd.org/"
-                    + "Index.aspx?DataSetCode=EXP_PM2_5"
-                ),
-            )
-        ),
-        tags.li(
-            tags.a(
-                "Our World in Data",
-                href=(
-                    "https://ourworldindata.org/"
-                    + "grapher/respiratory-disease-death-rate"
-                ),
-            )
-        ),
-    ),
-)
-
 missing_note = TagList(
     tags.br(),
     
